@@ -1,0 +1,121 @@
+body{
+    width: 100%;
+    background-color: orange;
+    margin: 0;
+}
+
+.header {
+    padding: 10px;
+    text-align: center;
+    background-color: #ffffff;
+    position: fixed;
+    top: 0;
+}
+.header img {
+    max-width: 400px; 
+    width: 100%;
+}
+
+footer{
+    background-color: #ffffff;
+    position: fixed;
+    width: 100%;
+    bottom: 0; 
+    text-align: center;
+}
+
+.bottom-nav ul{
+  list-style-type: none;
+}
+
+.nav-item {
+    width: 100px;
+    display: inline-block;
+    float: left;
+  
+
+}
+
+.bottom-nav {
+    width: 100%;
+
+}
+
+main{
+ 
+    
+}
+.menu li{
+    width: 33.3333333%;
+    display: inline;
+    float: left;
+    
+}
+
+.menu{
+   text-align: center;
+}
+
+.top-items {
+    width: 50%;
+    display: inline-block;
+    float: left;
+}
+
+
+.top-items img{
+    width: 100px;
+}
+
+
+.hoofdmenu-main {
+    text-align: center;
+    margin-right: 40px;
+    margin-top: 210px;
+}
+
+.hoofdmenu-main li{
+    background-color: #ffffff;
+    margin-bottom: 10px;
+    border-radius: 15px;
+}
+
+.market-item {
+    width: 100%;
+    display: block;
+    
+}
+
+
+
+a {
+    text-decoration: none;
+    font-size: 30px;
+    font-family: fantasy;
+    color: black;
+}
+
+
+
+.albert-cuyp {
+    
+
+}
+
+.foto-markten {
+    margin-top: 180px;
+    margin-left: 0;
+    padding-left: 0;
+    list-style: none;
+    max-width: 40px; 
+    width: 100%;
+
+}
+
+#logo {
+    
+}
+
+ul {
+    
+}
