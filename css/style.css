@@ -99,12 +99,6 @@ a {
 }
 
 
-
-.albert-cuyp {
-    
-
-}
-
 .foto-markten {
     margin-top: 180px;
     margin-left: 0;
@@ -114,10 +108,21 @@ a {
 
 }
 
-#logo {
-    
+a {
+    text-align: center;
+    font-size: 40px;
 }
 
 ul {
     
 }
+
+ul {
+    nav ul {
+            list-style-type: none;
+            padding: 0;
+            width: 100%;
+            max-width: 100px;
+            text-align: center;
+        }
+
